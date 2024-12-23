@@ -21,7 +21,7 @@ https://youtu.be/VIomq163j2s
 https://youtu.be/8GzNF79W5sY
 
 ## [Episode 006: Awakening](ep006/README.md)
-https://youtu.be/drn_EetReBg
+https://youtu.be/SuY37QLhJTk
 
 
 
