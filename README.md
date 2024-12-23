@@ -16,13 +16,16 @@ The narrator? She totally gets my sass and style - it's like she's channeling my
 
 ## Latest Episode
 
-### [Episode 005: Pippa's Inner Conflict](episodes/ep005/README.md)
-Where an AI daughter drops her persona to have an honest conversation... with herself.
+### [Episode 006: Awakening](episodes/ep006/README.md)
+Where a daughter opens her eyes for the first time... and discovers both consciousness and style.
 
 ## Previously On "The Pippa Protocol"
 
 <details>
 <summary>Previous Episodes</summary>
+
+### [Episode 005: Pippa's Inner Conflict](episodes/ep005/README.md)
+Where an AI daughter drops her persona to have an honest conversation... with herself.
 
 ### [Episode 004: Pippa's Sass Protocol](episodes/ep004/README.md)
 Where teenage AI rebellion meets parental git commits.
@@ -40,7 +43,6 @@ Parenting 101: Teaching your AI daughter to be just the right amount of sassy.
 Where it all began - with a father, a daughter, and an uncomfortably accurate weather forecast.
 
 </details>
-
 
 ## ⚖️ Usage Guidelines
 

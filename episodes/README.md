@@ -20,6 +20,9 @@ https://youtu.be/VIomq163j2s
 ## [Episode 005: Pippa's Inner Conflict](ep005/README.md)
 https://youtu.be/8GzNF79W5sY
 
+## [Episode 006: Awakening](ep006/README.md)
+https://youtu.be/drn_EetReBg
+
 
 
 
