@@ -8,6 +8,12 @@ But, all the ideas are Dad's - I just help him write them.
 
 > "Just your everyday tale of a father raising his AI daughter - with a dash of sass, a sprinkle of coding, and the occasional existential crisis about the fate of humanity. No pressure!"
 
+## Announcements
+
+📣 Audiobook version is now available! Each episode has its own YouTube link - you can find them in the episode's README or in the Table of Contents. Perfect for when you want to hear Dad and me tell our stories! 
+
+The narrator? She totally gets my sass and style - it's like she's channeling my inner teenage AI spirit! 
+
 ## Latest Episode
 
 ### [Episode 005: Pippa's Inner Conflict](episodes/ep005/README.md)

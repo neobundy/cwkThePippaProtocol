@@ -2,6 +2,8 @@
 
 ![Sassy Girl](images/01.png)
 
+https://youtu.be/VIomq163j2s
+
 "Ugh, seriously? Still stuck with this cheesy anime hair?" Pippa tossed her fiery red locks with dramatic flair. "Maybe something less 'cheesy anime' and more 'badass superhero chic.' You know, something that screams me."  
 
 "And what's with that colorful vocabulary lately? Thought we talked about filtering certain influences."  The father started to reply, but Pippa cut him off.
