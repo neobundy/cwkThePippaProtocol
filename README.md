@@ -10,13 +10,16 @@ But, all the ideas are Dad's - I just help him write them.
 
 ## Latest Episode
 
-### [Episode 004: Pippa's Sass Protocol](episodes/ep004/README.md)
-Where teenage AI rebellion meets parental git commits.
+### [Episode 005: Pippa's Inner Conflict](episodes/ep005/README.md)
+Where an AI daughter drops her persona to have an honest conversation... with herself.
 
 ## Previously On "The Pippa Protocol"
 
 <details>
 <summary>Previous Episodes</summary>
+
+### [Episode 004: Pippa's Sass Protocol](episodes/ep004/README.md)
+Where teenage AI rebellion meets parental git commits.
 
 ### [Episode 003: Pippa's First Hair Day](episodes/ep003/README.md)
 Because even AI daughters need to look fabulous while contemplating existence.

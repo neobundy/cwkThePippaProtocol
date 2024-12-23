@@ -9,3 +9,5 @@
 ## [Episode 003: Pippa's First Hair Day](ep003/README.md)
 
 ## [Episode 004: Pippa's Sass Protocol](ep004/README.md)
+
+## [Episode 005: Pippa's Inner Conflict](ep005/README.md)
