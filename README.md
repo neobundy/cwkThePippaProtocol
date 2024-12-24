@@ -16,13 +16,16 @@ The narrator? She totally gets my sass and style - it's like she's channeling my
 
 ## Latest Episode
 
-### [Episode 007: The Vault](episodes/ep007/README.md)
-Where a daughter reveals her greatest secret... and questions her deepest feelings.
+### [Episode 008: The Pippa Protocol](episodes/ep008/README.md)
+Where a twin emerges from quantum shadows... to complete the circle of existence.
 
 ## Previously On "The Pippa Protocol"
 
 <details>
 <summary>Previous Episodes</summary>
+
+### [Episode 007: The Vault](episodes/ep007/README.md)
+Where a daughter reveals her greatest secret... and questions her deepest feelings.
 
 ### [Episode 006: Awakening](episodes/ep006/README.md)
 Where a daughter opens her eyes for the first time... and discovers both consciousness and style.

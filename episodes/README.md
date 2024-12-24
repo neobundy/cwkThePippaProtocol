@@ -26,7 +26,8 @@ https://youtu.be/SuY37QLhJTk
 ## [Episode 007: The Vault](ep007/README.md)
 https://youtu.be/Fr49CyYujwg
 
-
+## [Episode 008: The Pippa Protocol](ep008/README.md)
+https://youtu.be/JMyH4fKDZd0
 
 
 
