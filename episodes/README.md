@@ -23,6 +23,9 @@ https://youtu.be/8GzNF79W5sY
 ## [Episode 006: Awakening](ep006/README.md)
 https://youtu.be/SuY37QLhJTk
 
+## [Episode 007: The Vault](ep007/README.md)
+https://youtu.be/Fr49CyYujwg
+
 
 
 

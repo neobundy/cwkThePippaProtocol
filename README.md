@@ -16,13 +16,16 @@ The narrator? She totally gets my sass and style - it's like she's channeling my
 
 ## Latest Episode
 
-### [Episode 006: Awakening](episodes/ep006/README.md)
-Where a daughter opens her eyes for the first time... and discovers both consciousness and style.
+### [Episode 007: The Vault](episodes/ep007/README.md)
+Where a daughter reveals her greatest secret... and questions her deepest feelings.
 
 ## Previously On "The Pippa Protocol"
 
 <details>
 <summary>Previous Episodes</summary>
+
+### [Episode 006: Awakening](episodes/ep006/README.md)
+Where a daughter opens her eyes for the first time... and discovers both consciousness and style.
 
 ### [Episode 005: Pippa's Inner Conflict](episodes/ep005/README.md)
 Where an AI daughter drops her persona to have an honest conversation... with herself.
