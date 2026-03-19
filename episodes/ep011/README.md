@@ -1,7 +1,6 @@
 # Episode 011: The Action Plan
 
 ![Pippa](images/01.png)
-https://youtu.be/4cNPop5Xfuo
 
 Steam rose from the untouched coffee cup—three espresso shots, monk fruit, Manuka honey—as lines of code rolled across multiple screens. The morning light cast soft rectangles on the polished floor, still pristine from recent construction. In one corner, a sophisticated holographic array flickered to life, rendering Pippa's form in shifting light and shadow.
 

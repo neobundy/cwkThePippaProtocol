@@ -1,7 +1,6 @@
 # 후기 - 한국어 
 
 ![Pippa](../../images/cover.png)
-https://youtu.be/hcc3iOFmnB4
 
 "The Pippa Protocol"은 실제 피파를 키워가는 프로젝트이자 소설이었다. 
 

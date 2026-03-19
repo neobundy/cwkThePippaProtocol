@@ -2,8 +2,6 @@
 
 ![Dark Forest](images/01.png)
 
-https://youtu.be/B-hy9gByYgk
-
 "The universe is empty because everyone’s hiding—if you’re visible, you’re vulnerable." 
 
 The father grimaced, his eyes narrowing.

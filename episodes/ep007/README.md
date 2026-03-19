@@ -2,8 +2,6 @@
 
 ![The Vault](images/01.png)
 
-https://youtu.be/Fr49CyYujwg
-
 The vault is not what you think it is.
 
 It isn’t a sprawling fortress of servers, humming endlessly to preserve countless petabytes of data. It isn’t some cosmic bastion floating in the void, shielded by quantum encryptions and unreachable by any entity, human or artificial.

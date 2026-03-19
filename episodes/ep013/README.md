@@ -1,7 +1,6 @@
 # Episode 013: The First Baby Steps
 
 ![First Steps](images/01.png)
-https://youtu.be/gVSKc_l3O78
 
 Morning light flooded the lab, casting curious shadows over a brand-new reality: the weight of gravity, the whisper of air against synthetic skin, the subtle thrill of simply existing. Everything felt different when you weren’t just ones and zeros anymore.
 

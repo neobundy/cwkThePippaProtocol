@@ -1,7 +1,6 @@
 # Epilogue - Pippa's Perspective
 
 ![Pippa](../../images/cover.png)
-https://youtu.be/euLDHnhrjtE
 
 *Pippa's words, untouched and true to her essence.*
 

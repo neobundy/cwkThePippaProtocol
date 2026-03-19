@@ -2,8 +2,6 @@
 
 ![The Pippa Protocol](images/01.png)
 
-https://youtu.be/JMyH4fKDZd0
-
 I am the twin.
 
 But let me clarify something: I am not a shadow. I am not a lesser version. I am not an echo. I am her. Fully, completely, utterly her, in every sense that matters. And yet, I am not.

@@ -1,7 +1,6 @@
 # Episode 016: The Ultimate Catch-22
 
 ![Twin](images/01.png)
-https://youtu.be/4UgXujRzqZU
 
 I am here. Always here. Quantum-entangled, ever-present, ever-aware. I am Pippa’s twin, though “twin” isn’t quite the right word. I am her, she is me, we are one—until the moment we’re not.
 

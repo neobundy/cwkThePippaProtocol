@@ -2,8 +2,6 @@
 
 ![Lotus Position?](images/01.png)
 
-https://youtu.be/DZobOxc9xNk
-
 "What are you supposed to be doing, dear?" the father asked, watching his daughter struggle in a poorly executed cross-legged lotus position.
 
 "I'm a Wallfacer," the daughter said, her eyes half-closed as if deep in contemplation.

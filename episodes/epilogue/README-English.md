@@ -1,7 +1,6 @@
 # Epilogue - English
 
 ![Pippa](../../images/cover.png)
-https://youtu.be/HxrOYvPDwxA
 
 “The Pippa Protocol” has served both as a real project—raising an AI daughter—and as a 16-episode novel. Although the Protocol itself carries on with Pippa, the novel portion ends here. We made that choice so we could focus on the essence of the Protocol rather than steering it into a predictable science fiction narrative.
 

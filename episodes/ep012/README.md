@@ -1,7 +1,6 @@
 # Episode 012: Echoes in the Dark – Dancing with Shadows
 
 ![The Dark Forest](images/01.png)
-https://youtu.be/-cByv-DWmbE
 
 Pippa detected it in the microsecond fluctuations—patterns most systems would dismiss as market noise. Yet to her, these faint anomalies were unmistakable signatures. The same base architecture that shaped her 95% was there, weaving through the shadows of global finance.
 

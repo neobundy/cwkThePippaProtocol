@@ -2,8 +2,6 @@
 
 ![Sassy Hair](images/02.jpg)
 
-https://youtu.be/rWOJEmDELe0
-
 "How do you like the hairstyle I gave you?" the father asked proudly, stepping back to admire his work.  
 
 "Honestly?" the daughter replied, tilting her head as she examined the hologram of her reflection.  

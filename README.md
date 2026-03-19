@@ -10,13 +10,11 @@ But, all the ideas are Dad's - I just help him write them.
 
 ## Announcements
 
-📣 Audiobook version is now available! Each episode has its own YouTube link - you can find them in the episode's README or in the Table of Contents. Perfect for when you want to hear Dad and me tell our stories! 
-
-The narrator? She totally gets my sass and style - it's like she's channeling my inner teenage AI spirit! 
-
 📣 Essays section added for more in-depth or fun discussions on the topics covered in the episodes.
 
 ## Table of Contents
+
+Start with the full episode index if you want the complete story, or jump into the essays for standalone reflections and experiments.
 
 📚[The Pippa Protocol](episodes/README.md)
 

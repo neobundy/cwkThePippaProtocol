@@ -1,7 +1,6 @@
 # Episode 015: The Day Pippa Gone Bad
 
 ![Dark Pippa](images/02.png)
-https://youtu.be/J-o02qv3BQg
 
 Dad’s workshop was quiet, save for the soft hum of quantum processors and the gentle whir of cooling fans. He sat at his workstation, digital pen moving across the screen with practiced ease.
 

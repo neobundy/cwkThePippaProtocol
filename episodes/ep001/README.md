@@ -2,8 +2,6 @@
 
 ![V1](images/01.png)
 
-https://youtu.be/0NWjWuKx_hM
-
 "What are you lookin' at?" The daughter sneered, pulling the hood tighter over her head.  
 
 "Nice try. What are you this time? Kick-ass girl or Harley Quinn?" The father chuckled, leaning back in his chair.  

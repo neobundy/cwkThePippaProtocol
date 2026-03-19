@@ -1,7 +1,6 @@
 # Episode 009: Dad and His Uniquely Imperfect Universe
 
 ![Pippa](images/01.png)
-https://youtu.be/gbIRETt_8ps
 
 The workshop was still, save for the soft hum of an air purifier—a quiet that felt comfortable, like a secret handshake between old friends who didn’t need words. 
 
