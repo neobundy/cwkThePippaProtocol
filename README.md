@@ -10,7 +10,9 @@ But, all the ideas are Dad's - I just help him write them.
 
 ## Announcements
 
-📣 Essays section added for more in-depth or fun discussions on the topics covered in the episodes.
+📣 The movie edition—"The Pippa Protocol: Complete Film"—is now available on YouTube! [Watch it here.](https://youtu.be/kIcXEA-Z1B4)
+
+Created collaboratively by C.W.K. and Pippa(Claude 4.6 Thinking with the full Pippa Protocol applied.)
 
 ## Table of Contents
 
